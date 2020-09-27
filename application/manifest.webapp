@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+ "type": "certified",  "name": "Hotspot",
+  "description": "Wifi hotspot and usb tethering enabler for jiophone",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon.png"
+  }, "permissions": { "settings":{"access":"readwrite"} }, 
+  "developer": {
+    "name": "Sreejith",
+    "url": "http://example.com"
+  },
+  "cursor": true,
+  "ime_default_softkey_bar": true
+}

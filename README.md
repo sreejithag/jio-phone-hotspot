@@ -6,6 +6,6 @@ Requires older firmware and OmniSD installed in jiophone for using this applicat
 Requires OnmiSD installed or OS with support to sideload zip packages directly for other kaios based phones. 
 
 
-### Disclimer
+### Disclaimer
 I don't endrose using this application in jiophone as it may be against the terms of usage of jiophone.\
 Iam not responsible for any pontential damage to device or loss of data by using this app. 
